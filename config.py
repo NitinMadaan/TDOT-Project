@@ -1,0 +1,7 @@
+#gkey='AIzaSyDUjlVvzRikZlYLaKx6d_SIXxWBdrlFd-8'
+gkey="AIzaSyCRR2bkksoHCG8Gw4ofh1HIYcbdPQeckQ4"
+consumer_key="xXjqW6BXLue4FfPB4Gq55fu2j"
+consumer_secret="Iu7QxfaQwAATFgePY0q2uMH2cVdFzzxcSGCG82XUdLuUYkbiuA"
+access_token ="707619845580451840-StMitukHWDqskeaG9IYYSjUl4chXWw9"
+access_secret="KMOLUCjmQ534eO7hPRD3oes5nXrU21fy94lOxVJTKktXl"
+appID="13126539"
